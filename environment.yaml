@@ -1,0 +1,14 @@
+name: nms
+
+dependencies:
+  - python=3
+  - ipython
+  - numpy
+  - scipy
+  - pandas
+  - conda-forge::pingouin=0.3.12
+  - conda-forge::statsmodels
+  - matplotlib
+  - seaborn
+  - xlrd
+  - openpyxl

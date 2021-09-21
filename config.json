@@ -1,0 +1,12 @@
+{
+    "data_directory"    : "../data",
+    "results_directory" : "../results",
+
+    "minimum_word_count"   : 30,
+    "minimum_report_count" : 2,
+    
+    "colors" : {
+        "negative" : "tab:red",
+        "positive" : "tab:green"
+    }
+}
